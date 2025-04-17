@@ -27,10 +27,10 @@ twinned_administrative_body:
 - '[[/_Standards/WikiData/WD~Kolkata,1348]]'
 - '[[/_Standards/WikiData/WD~Dhaka,1354]]'
 - '[[/_Standards/WikiData/WD~Delhi,1353]]'
-- "[[/_Standards/WikiData/WD~Kuala Lumpur,1865]]"
+- "[[/_Standards/WikiData/WD~Kuala_Lumpur,1865]]"
 - '[[/_Standards/WikiData/WD~Beirut,3820]]'
 - '[[/_Standards/WikiData/WD~Manama,3882]]'
-- "[[/_Standards/WikiData/WD~Port Louis,3929]]"
+- "[[/_Standards/WikiData/WD~Port_Louis,3929]]"
 - '[[/_Standards/WikiData/WD~Shanghai,8686]]'
 - '[[/_Standards/WikiData/WD~Houston,16555]]'
 - '[[/_Standards/WikiData/WD~Pristina,25270]]'
@@ -38,22 +38,22 @@ twinned_administrative_body:
 instance_of:
 - '[[/_Standards/WikiData/WD~megacity,174844]]'
 - '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~big city,1549591]]"
-- "[[/_Standards/WikiData/WD~city or town,7930989]]"
-- "[[/_Standards/WikiData/WD~state capital,11271835]]"
-- "[[/_Standards/WikiData/WD~largest city,51929311]]"
-- "[[/_Standards/WikiData/WD~administrative territorial entity,56061]]"
+- "[[/_Standards/WikiData/WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~city_or_town,7930989]]"
+- "[[/_Standards/WikiData/WD~state_capital,11271835]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
+- "[[/_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Encyclopædia Britannica 11th edition,867541]]"
-- "[[/_Standards/WikiData/WD~The Nuttall Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
 owner_of:
-- "[[/_Standards/WikiData/WD~CDGK Stadium,5009925]]"
-- "[[/_Standards/WikiData/WD~Peoples Football Stadium,7166062]]"
-demographics_of_topic: "[[/_Standards/WikiData/WD~demographics of Karachi,5256021]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy of Karachi,5333698]]"
-geography_of_topic: "[[/_Standards/WikiData/WD~geography of Karachi,5535161]]"
-capital: "[[/_Standards/WikiData/WD~Gulshan Town,5617890]]"
-office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Mayor of Karachi,6627562]]"
+- "[[/_Standards/WikiData/WD~CDGK_Stadium,5009925]]"
+- "[[/_Standards/WikiData/WD~Peoples_Football_Stadium,7166062]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Karachi,5256021]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Karachi,5333698]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Karachi,5535161]]"
+capital: "[[/_Standards/WikiData/WD~Gulshan_Town,5617890]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Mayor_of_Karachi,6627562]]"
 category_for_people_born_here: '[[/_Standards/WikiData/WD~Q8056407,8056407]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Karachi%20from%20above.jpg"
 montage_image:
@@ -73,10 +73,10 @@ native_label:
 official_name:
 - ڪراچي
 - کراچی
-legislative_body: "[[/_Standards/WikiData/WD~Karachi Metropolitan Corporation,15982486]]"
+legislative_body: "[[/_Standards/WikiData/WD~Karachi_Metropolitan_Corporation,15982486]]"
 permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q27096394,27096394]]'
-head_of_government: "[[/_Standards/WikiData/WD~Murtaza Wahab,56485499]]"
-member_of: "[[/_Standards/WikiData/WD~World Tourism Cities Federation,67652870]]"
+head_of_government: "[[/_Standards/WikiData/WD~Murtaza_Wahab,56485499]]"
+member_of: "[[/_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
 different_from: '[[/_Standards/WikiData/WD~Karachi,68037518]]'
 category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q86697522,86697522]]'
 ISNI: 0000000105629973
