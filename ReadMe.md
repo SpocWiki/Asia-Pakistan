@@ -133,10 +133,4 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Pakistan|Pakistan]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan.internal|Pakistan.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan.protect|Pakistan.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan.private|Pakistan.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan.personal|Pakistan.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan.secret|Pakistan.secret]] 
+

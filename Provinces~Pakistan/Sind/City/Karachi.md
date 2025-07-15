@@ -1,4 +1,4 @@
-﻿---
+---
 location:
 - 24.86
 - 67.04
@@ -138,11 +138,21 @@ maxZoom: 18
 > Known as the "City of Lights" in the 1960s and 1970s for its vibrant nightlife, Karachi was beset by sharp ethnic, sectarian, and political conflict in the 1980s with the large-scale arrival of weaponry during the Soviet–Afghan War. The city had become well known for its high rates of violent crime, but recorded crimes sharply decreased following a crackdown operation against criminals, the MQM political party, and Islamist militants, initiated in 2013 by the Pakistan Rangers. As a result of the operation, Karachi dropped from being ranked the world's 6th-most dangerous city for crime in 2014, to 128th by 2022.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Karachi)
+
+
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/City/Karachi|Karachi]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/City/Karachi.public|Karachi.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/City/Karachi.internal|Karachi.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/City/Karachi.protect|Karachi.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/City/Karachi.private|Karachi.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/City/Karachi.personal|Karachi.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/City/Karachi.secret|Karachi.secret]] 
+
+### #is_/same_as :: [Karachi](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind/City/Karachi.md) 
+
+### #is_/same_as :: [Karachi.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind/City/Karachi.public.md) 
+
+### #is_/same_as :: [Karachi.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind/City/Karachi.internal.md) 
+
+### #is_/same_as :: [Karachi.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind/City/Karachi.protect.md) 
+
+### #is_/same_as :: [Karachi.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind/City/Karachi.private.md) 
+
+### #is_/same_as :: [Karachi.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind/City/Karachi.personal.md) 
+
+### #is_/same_as :: [Karachi.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind/City/Karachi.secret.md)
+

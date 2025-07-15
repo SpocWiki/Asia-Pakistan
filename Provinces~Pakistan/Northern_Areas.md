@@ -40,11 +40,18 @@ markerFolder: ./Northern_Areas/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas|Northern_Areas]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.public|Northern_Areas.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.internal|Northern_Areas.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.protect|Northern_Areas.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.private|Northern_Areas.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.personal|Northern_Areas.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Northern_Areas.secret|Northern_Areas.secret]] 
+
+### #is_/same_as :: [Northern_Areas](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.md) 
+
+### #is_/same_as :: [Northern_Areas.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.public.md) 
+
+### #is_/same_as :: [Northern_Areas.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.internal.md) 
+
+### #is_/same_as :: [Northern_Areas.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.protect.md) 
+
+### #is_/same_as :: [Northern_Areas.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.private.md) 
+
+### #is_/same_as :: [Northern_Areas.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.personal.md) 
+
+### #is_/same_as :: [Northern_Areas.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.secret.md)
 

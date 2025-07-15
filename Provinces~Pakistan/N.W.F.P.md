@@ -40,11 +40,18 @@ markerFolder: ./N.W.F.P/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P|N.W.F.P]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.public|N.W.F.P.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.internal|N.W.F.P.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.protect|N.W.F.P.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.private|N.W.F.P.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.personal|N.W.F.P.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/N.W.F.P.secret|N.W.F.P.secret]] 
+
+### #is_/same_as :: [N.W.F.P](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/N.W.F.P.md) 
+
+### #is_/same_as :: [N.W.F.P.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/N.W.F.P.public.md) 
+
+### #is_/same_as :: [N.W.F.P.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/N.W.F.P.internal.md) 
+
+### #is_/same_as :: [N.W.F.P.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/N.W.F.P.protect.md) 
+
+### #is_/same_as :: [N.W.F.P.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/N.W.F.P.private.md) 
+
+### #is_/same_as :: [N.W.F.P.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/N.W.F.P.personal.md) 
+
+### #is_/same_as :: [N.W.F.P.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/N.W.F.P.secret.md)
 

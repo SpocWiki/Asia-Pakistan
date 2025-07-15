@@ -40,11 +40,18 @@ markerFolder: ./Baluchistan/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/Baluchistan|Baluchistan]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Baluchistan.public|Baluchistan.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Baluchistan.internal|Baluchistan.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Baluchistan.protect|Baluchistan.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Baluchistan.private|Baluchistan.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Baluchistan.personal|Baluchistan.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Baluchistan.secret|Baluchistan.secret]] 
+
+### #is_/same_as :: [Baluchistan](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.md) 
+
+### #is_/same_as :: [Baluchistan.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.public.md) 
+
+### #is_/same_as :: [Baluchistan.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.internal.md) 
+
+### #is_/same_as :: [Baluchistan.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.protect.md) 
+
+### #is_/same_as :: [Baluchistan.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.private.md) 
+
+### #is_/same_as :: [Baluchistan.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.personal.md) 
+
+### #is_/same_as :: [Baluchistan.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.secret.md)
 

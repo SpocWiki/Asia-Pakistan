@@ -40,11 +40,18 @@ markerFolder: ./F.A.T.A/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.A.T.A|F.A.T.A]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.A.T.A.public|F.A.T.A.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.A.T.A.internal|F.A.T.A.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.A.T.A.protect|F.A.T.A.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.A.T.A.private|F.A.T.A.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.A.T.A.personal|F.A.T.A.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/F.A.T.A.secret|F.A.T.A.secret]] 
+
+### #is_/same_as :: [F.A.T.A](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.md) 
+
+### #is_/same_as :: [F.A.T.A.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.public.md) 
+
+### #is_/same_as :: [F.A.T.A.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.internal.md) 
+
+### #is_/same_as :: [F.A.T.A.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.protect.md) 
+
+### #is_/same_as :: [F.A.T.A.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.private.md) 
+
+### #is_/same_as :: [F.A.T.A.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.personal.md) 
+
+### #is_/same_as :: [F.A.T.A.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.secret.md)
 

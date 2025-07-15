@@ -40,11 +40,18 @@ markerFolder: ./Punjab/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab|Punjab]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.public|Punjab.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.internal|Punjab.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.protect|Punjab.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.private|Punjab.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.personal|Punjab.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Punjab.secret|Punjab.secret]] 
+
+### #is_/same_as :: [Punjab](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Punjab.md) 
+
+### #is_/same_as :: [Punjab.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Punjab.public.md) 
+
+### #is_/same_as :: [Punjab.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Punjab.internal.md) 
+
+### #is_/same_as :: [Punjab.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Punjab.protect.md) 
+
+### #is_/same_as :: [Punjab.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Punjab.private.md) 
+
+### #is_/same_as :: [Punjab.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Punjab.personal.md) 
+
+### #is_/same_as :: [Punjab.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Punjab.secret.md)
 

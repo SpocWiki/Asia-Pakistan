@@ -40,11 +40,18 @@ markerFolder: ./Sind/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind|Sind]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.public|Sind.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.internal|Sind.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.protect|Sind.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.private|Sind.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.personal|Sind.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Sind.secret|Sind.secret]] 
+
+### #is_/same_as :: [Sind](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.md) 
+
+### #is_/same_as :: [Sind.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.public.md) 
+
+### #is_/same_as :: [Sind.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.internal.md) 
+
+### #is_/same_as :: [Sind.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.protect.md) 
+
+### #is_/same_as :: [Sind.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.private.md) 
+
+### #is_/same_as :: [Sind.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.personal.md) 
+
+### #is_/same_as :: [Sind.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.secret.md)
 

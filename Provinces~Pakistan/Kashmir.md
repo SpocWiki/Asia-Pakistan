@@ -40,11 +40,18 @@ markerFolder: ./Kashmir/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~South/Pakistan/Counties/Kashmir|Kashmir]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~South/Pakistan/Counties/Kashmir.public|Kashmir.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Kashmir.internal|Kashmir.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~South/Pakistan/Counties/Kashmir.protect|Kashmir.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~South/Pakistan/Counties/Kashmir.private|Kashmir.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~South/Pakistan/Counties/Kashmir.personal|Kashmir.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~South/Pakistan/Counties/Kashmir.secret|Kashmir.secret]] 
+
+### #is_/same_as :: [Kashmir](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Kashmir.md) 
+
+### #is_/same_as :: [Kashmir.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Kashmir.public.md) 
+
+### #is_/same_as :: [Kashmir.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Kashmir.internal.md) 
+
+### #is_/same_as :: [Kashmir.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Kashmir.protect.md) 
+
+### #is_/same_as :: [Kashmir.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Kashmir.private.md) 
+
+### #is_/same_as :: [Kashmir.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Kashmir.personal.md) 
+
+### #is_/same_as :: [Kashmir.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Kashmir.secret.md)
 
