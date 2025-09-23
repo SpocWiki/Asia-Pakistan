@@ -33,17 +33,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Islamabad](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.md) 
+### #is_/same_as :: [Islamabad](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.md) 
 
-### #is_/same_as :: [Islamabad.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.public.md) 
+### #is_/same_as :: [Islamabad.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.public.md) 
 
-### #is_/same_as :: [Islamabad.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.internal.md) 
+### #is_/same_as :: [Islamabad.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.internal.md) 
 
-### #is_/same_as :: [Islamabad.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.protect.md) 
+### #is_/same_as :: [Islamabad.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.protect.md) 
 
-### #is_/same_as :: [Islamabad.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.private.md) 
+### #is_/same_as :: [Islamabad.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.private.md) 
 
-### #is_/same_as :: [Islamabad.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.personal.md) 
+### #is_/same_as :: [Islamabad.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.personal.md) 
 
-### #is_/same_as :: [Islamabad.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.secret.md)
+### #is_/same_as :: [Islamabad.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.C.T/City/Islamabad.secret.md)
 

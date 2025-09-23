@@ -126,7 +126,7 @@ Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]
 ![[Coat_of_arms_of_Pakistan.svg|350]] 
 ![[Anthem-Pakistan.mp3]]
 
-![[Pakistan/Flag_of_Pakistan.svg|350]]  
+![[Flag_of_Pakistan.svg|350]]  
 [Alcohol-l::0.1] 
 [Language-Id::] 
 [geo-lon::70.1033] 

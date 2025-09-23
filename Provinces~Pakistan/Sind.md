@@ -40,17 +40,17 @@ markerFolder: ./Sind/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Sind](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.md) 
+### #is_/same_as :: [Sind](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind.md) 
 
-### #is_/same_as :: [Sind.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.public.md) 
+### #is_/same_as :: [Sind.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind.public.md) 
 
-### #is_/same_as :: [Sind.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.internal.md) 
+### #is_/same_as :: [Sind.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind.internal.md) 
 
-### #is_/same_as :: [Sind.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.protect.md) 
+### #is_/same_as :: [Sind.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind.protect.md) 
 
-### #is_/same_as :: [Sind.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.private.md) 
+### #is_/same_as :: [Sind.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind.private.md) 
 
-### #is_/same_as :: [Sind.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.personal.md) 
+### #is_/same_as :: [Sind.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind.personal.md) 
 
-### #is_/same_as :: [Sind.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Sind.secret.md)
+### #is_/same_as :: [Sind.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind.secret.md)
 

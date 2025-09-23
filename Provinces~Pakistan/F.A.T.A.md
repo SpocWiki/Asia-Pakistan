@@ -40,17 +40,17 @@ markerFolder: ./F.A.T.A/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [F.A.T.A](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.md) 
+### #is_/same_as :: [F.A.T.A](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.A.T.A.md) 
 
-### #is_/same_as :: [F.A.T.A.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.public.md) 
+### #is_/same_as :: [F.A.T.A.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.A.T.A.public.md) 
 
-### #is_/same_as :: [F.A.T.A.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.internal.md) 
+### #is_/same_as :: [F.A.T.A.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.A.T.A.internal.md) 
 
-### #is_/same_as :: [F.A.T.A.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.protect.md) 
+### #is_/same_as :: [F.A.T.A.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.A.T.A.protect.md) 
 
-### #is_/same_as :: [F.A.T.A.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.private.md) 
+### #is_/same_as :: [F.A.T.A.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.A.T.A.private.md) 
 
-### #is_/same_as :: [F.A.T.A.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.personal.md) 
+### #is_/same_as :: [F.A.T.A.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.A.T.A.personal.md) 
 
-### #is_/same_as :: [F.A.T.A.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/F.A.T.A.secret.md)
+### #is_/same_as :: [F.A.T.A.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/F.A.T.A.secret.md)
 

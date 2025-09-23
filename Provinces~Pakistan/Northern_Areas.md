@@ -40,17 +40,17 @@ markerFolder: ./Northern_Areas/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Northern_Areas](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.md) 
+### #is_/same_as :: [Northern_Areas](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Northern_Areas.md) 
 
-### #is_/same_as :: [Northern_Areas.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.public.md) 
+### #is_/same_as :: [Northern_Areas.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Northern_Areas.public.md) 
 
-### #is_/same_as :: [Northern_Areas.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.internal.md) 
+### #is_/same_as :: [Northern_Areas.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Northern_Areas.internal.md) 
 
-### #is_/same_as :: [Northern_Areas.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.protect.md) 
+### #is_/same_as :: [Northern_Areas.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Northern_Areas.protect.md) 
 
-### #is_/same_as :: [Northern_Areas.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.private.md) 
+### #is_/same_as :: [Northern_Areas.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Northern_Areas.private.md) 
 
-### #is_/same_as :: [Northern_Areas.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.personal.md) 
+### #is_/same_as :: [Northern_Areas.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Northern_Areas.personal.md) 
 
-### #is_/same_as :: [Northern_Areas.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Northern_Areas.secret.md)
+### #is_/same_as :: [Northern_Areas.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Northern_Areas.secret.md)
 

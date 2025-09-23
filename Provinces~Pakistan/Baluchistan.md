@@ -40,17 +40,17 @@ markerFolder: ./Baluchistan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baluchistan](/_Standards/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.md) 
+### #is_/same_as :: [Baluchistan](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.md) 
 
-### #is_/same_as :: [Baluchistan.public](/_public/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.public.md) 
+### #is_/same_as :: [Baluchistan.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.public.md) 
 
-### #is_/same_as :: [Baluchistan.internal](/_internal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.internal.md) 
+### #is_/same_as :: [Baluchistan.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.internal.md) 
 
-### #is_/same_as :: [Baluchistan.protect](/_protect/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.protect.md) 
+### #is_/same_as :: [Baluchistan.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.protect.md) 
 
-### #is_/same_as :: [Baluchistan.private](/_private/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.private.md) 
+### #is_/same_as :: [Baluchistan.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.private.md) 
 
-### #is_/same_as :: [Baluchistan.personal](/_personal/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.personal.md) 
+### #is_/same_as :: [Baluchistan.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.personal.md) 
 
-### #is_/same_as :: [Baluchistan.secret](/_secret/Earth/Continent/Asia/Asia~South/Pakistan/Provinces~Pakistan/Baluchistan.secret.md)
+### #is_/same_as :: [Baluchistan.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.secret.md)
 
