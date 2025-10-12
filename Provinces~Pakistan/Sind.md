@@ -28,6 +28,8 @@ expiryDate:
 
 # [[Sind]]
 
+#is_/same_as :: 
+
 ## #has_/map  
 
 ```leaflet
@@ -35,8 +37,11 @@ id: Sind
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Sind/
-markerFolder: ./Sind/
+geojsonFolder: ./Sind//
+markerFolder: ./Sind//
+coordinates: [[Sind]] 
+markerFile: [[Sind]] 
+defaultZoom: 11 
 ```
 
 ## #has_/text_of_/abstract 
