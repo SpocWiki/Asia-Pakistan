@@ -44,3 +44,20 @@ Commons_category: Mohenjo-daro
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Mohenjo-daro) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Larkana/Mohenjo-daro|Mohenjo-daro]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Larkana/Mohenjo-daro.public|Mohenjo-daro.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Larkana/Mohenjo-daro.internal|Mohenjo-daro.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Larkana/Mohenjo-daro.protect|Mohenjo-daro.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Larkana/Mohenjo-daro.private|Mohenjo-daro.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Larkana/Mohenjo-daro.personal|Mohenjo-daro.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Larkana/Mohenjo-daro.secret|Mohenjo-daro.secret]] 
+

@@ -52,3 +52,20 @@ aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20View%20
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Badshahi%20Mosque) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City/Badshahi_Mosque|Badshahi_Mosque]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City/Badshahi_Mosque.public|Badshahi_Mosque.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City/Badshahi_Mosque.internal|Badshahi_Mosque.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City/Badshahi_Mosque.protect|Badshahi_Mosque.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City/Badshahi_Mosque.private|Badshahi_Mosque.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City/Badshahi_Mosque.personal|Badshahi_Mosque.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City/Badshahi_Mosque.secret|Badshahi_Mosque.secret]] 
+

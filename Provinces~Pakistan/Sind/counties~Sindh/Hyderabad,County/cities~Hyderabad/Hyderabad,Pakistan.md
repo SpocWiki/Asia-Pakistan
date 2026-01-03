@@ -20,3 +20,20 @@ has_id_wikidata: Q1361
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Hyderabad,%20Pakistan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Hyderabad,County/cities~Hyderabad/Hyderabad,Pakistan|Hyderabad,Pakistan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Hyderabad,County/cities~Hyderabad/Hyderabad,Pakistan.public|Hyderabad,Pakistan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Hyderabad,County/cities~Hyderabad/Hyderabad,Pakistan.internal|Hyderabad,Pakistan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Hyderabad,County/cities~Hyderabad/Hyderabad,Pakistan.protect|Hyderabad,Pakistan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Hyderabad,County/cities~Hyderabad/Hyderabad,Pakistan.private|Hyderabad,Pakistan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Hyderabad,County/cities~Hyderabad/Hyderabad,Pakistan.personal|Hyderabad,Pakistan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Hyderabad,County/cities~Hyderabad/Hyderabad,Pakistan.secret|Hyderabad,Pakistan.secret]] 
+

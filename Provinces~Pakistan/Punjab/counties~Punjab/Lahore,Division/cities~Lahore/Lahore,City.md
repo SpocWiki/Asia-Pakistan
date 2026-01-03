@@ -152,4 +152,19 @@ official_website: https://lahore-mc.punjab.gov.pk/
 > [Wikipedia](https://en.wikipedia.org/wiki/Lahore) 
 
 
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City|Lahore,City]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City.public|Lahore,City.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City.internal|Lahore,City.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City.protect|Lahore,City.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City.private|Lahore,City.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City.personal|Lahore,City.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Punjab/counties~Punjab/Lahore,Division/cities~Lahore/Lahore,City.secret|Lahore,City.secret]] 
 

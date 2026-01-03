@@ -149,17 +149,17 @@ zoomFeatures: true
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Karachi](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/City/Karachi.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Karachi|Karachi]] 
 
-### #is_/same_as :: [Karachi.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/City/Karachi.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Karachi.public|Karachi.public]] 
 
-### #is_/same_as :: [Karachi.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/City/Karachi.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Karachi.internal|Karachi.internal]] 
 
-### #is_/same_as :: [Karachi.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/City/Karachi.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Karachi.protect|Karachi.protect]] 
 
-### #is_/same_as :: [Karachi.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/City/Karachi.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Karachi.private|Karachi.private]] 
 
-### #is_/same_as :: [Karachi.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/City/Karachi.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Karachi.personal|Karachi.personal]] 
 
-### #is_/same_as :: [Karachi.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/City/Karachi.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Sind/counties~Sindh/Karachi.secret|Karachi.secret]] 
 

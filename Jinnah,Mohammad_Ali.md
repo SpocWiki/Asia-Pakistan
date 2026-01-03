@@ -41,3 +41,20 @@ has_id_wikidata: Q160554
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Muhammad%20Ali%20Jinnah) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Jinnah,Mohammad_Ali|Jinnah,Mohammad_Ali]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Jinnah,Mohammad_Ali.public|Jinnah,Mohammad_Ali.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Jinnah,Mohammad_Ali.internal|Jinnah,Mohammad_Ali.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Jinnah,Mohammad_Ali.protect|Jinnah,Mohammad_Ali.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Jinnah,Mohammad_Ali.private|Jinnah,Mohammad_Ali.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Jinnah,Mohammad_Ali.personal|Jinnah,Mohammad_Ali.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Jinnah,Mohammad_Ali.secret|Jinnah,Mohammad_Ali.secret]] 
+

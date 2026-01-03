@@ -40,17 +40,17 @@ markerFolder: ./Azad_Kashmir/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Azad_Kashmir](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir|Azad_Kashmir]] 
 
-### #is_/same_as :: [Azad_Kashmir.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.public|Azad_Kashmir.public]] 
 
-### #is_/same_as :: [Azad_Kashmir.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.internal|Azad_Kashmir.internal]] 
 
-### #is_/same_as :: [Azad_Kashmir.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.protect|Azad_Kashmir.protect]] 
 
-### #is_/same_as :: [Azad_Kashmir.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.private|Azad_Kashmir.private]] 
 
-### #is_/same_as :: [Azad_Kashmir.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.personal|Azad_Kashmir.personal]] 
 
-### #is_/same_as :: [Azad_Kashmir.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Azad_Kashmir.secret|Azad_Kashmir.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./Baluchistan/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Baluchistan](/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan|Baluchistan]] 
 
-### #is_/same_as :: [Baluchistan.public](/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.public|Baluchistan.public]] 
 
-### #is_/same_as :: [Baluchistan.internal](/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.internal|Baluchistan.internal]] 
 
-### #is_/same_as :: [Baluchistan.protect](/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.protect|Baluchistan.protect]] 
 
-### #is_/same_as :: [Baluchistan.private](/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.private|Baluchistan.private]] 
 
-### #is_/same_as :: [Baluchistan.personal](/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.personal|Baluchistan.personal]] 
 
-### #is_/same_as :: [Baluchistan.secret](/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/Provinces~Pakistan/Baluchistan.secret|Baluchistan.secret]] 
 

@@ -30,3 +30,20 @@ Commons_category: History of Pakistan
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Pakistan) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/History_of_Pakistan|History_of_Pakistan]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/History_of_Pakistan.public|History_of_Pakistan.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/History_of_Pakistan.internal|History_of_Pakistan.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/History_of_Pakistan.protect|History_of_Pakistan.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/History_of_Pakistan.private|History_of_Pakistan.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/History_of_Pakistan.personal|History_of_Pakistan.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Indian_Subcontinent/Pakistan/History_of_Pakistan.secret|History_of_Pakistan.secret]] 
+
