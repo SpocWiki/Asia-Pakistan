@@ -3,29 +3,29 @@ aliases:
   - Karakorum
 has_id_wikidata: Q5469
 has_boundary:
-  - "[[_Standards/WikiData/WD~Pamir_Mountains,161750]]"
-  - "[[_Standards/WikiData/WD~Kunlun_Mountains,187871]]"
-  - "[[_Standards/WikiData/WD~Ladakh_Range,2578947]]"
-  - "[[_Standards/WikiData/WD~Himalayas,5451]]"
-  - "[[_Standards/WikiData/WD~Hindu_Kush,5472]]"
+  - "[[_Standards/WikiData/WD~Pamir_Mountains,161750|WD~Pamir_Mountains,161750]]"
+  - "[[_Standards/WikiData/WD~Kunlun_Mountains,187871|WD~Kunlun_Mountains,187871]]"
+  - "[[_Standards/WikiData/WD~Ladakh_Range,2578947|WD~Ladakh_Range,2578947]]"
+  - "[[_Standards/WikiData/WD~Himalayas,5451|WD~Himalayas,5451]]"
+  - "[[_Standards/WikiData/WD~Hindu_Kush,5472|WD~Hindu_Kush,5472]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Alpide_belt,847514]]"
-  - "[[_Standards/WikiData/WD~Larger_Himalaya,18088753]]"
+  - "[[_Standards/WikiData/WD~Alpide_belt,847514|WD~Alpide_belt,847514]]"
+  - "[[_Standards/WikiData/WD~Larger_Himalaya,18088753|WD~Larger_Himalaya,18088753]]"
 coordinate_location: Point(76.508888888 35.883055555)
 country:
-  - "[[_Standards/WikiData/WD~India,668]]"
-  - "[[_Standards/WikiData/WD~Pakistan,843]]"
-  - "[[_Standards/WikiData/WD~Tajikistan,863]]"
-  - "[[_Standards/WikiData/WD~Afghanistan,889]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~India,668|WD~India,668]]"
+  - "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+  - "[[_Standards/WikiData/WD~Tajikistan,863|WD~Tajikistan,863]]"
+  - "[[_Standards/WikiData/WD~Afghanistan,889|WD~Afghanistan,889]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 length: 500
-highest_point: "[[_Standards/WikiData/WD~K2,43512]]"
-instance_of: "[[_Standards/WikiData/WD~mountain_range,46831]]"
-different_from: "[[_Standards/WikiData/WD~Karakorum,62677]]"
+highest_point: "[[_Standards/WikiData/WD~K2,43512|WD~K2,43512]]"
+instance_of: "[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]"
+different_from: "[[_Standards/WikiData/WD~Karakorum,62677|WD~Karakorum,62677]]"
 elevation_above_sea_level: 8611
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/KKH.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/K2-big.jpg

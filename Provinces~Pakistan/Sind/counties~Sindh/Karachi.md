@@ -14,47 +14,47 @@ isDeleted: false
 confidential: public
 has_id_wikidata: Q8660
 twinned_administrative_body:
-- '[[/_Standards/WikiData/WD~Mashhad,121157]]'
-- '[[/_Standards/WikiData/WD~İzmit,129649]]'
-- '[[/_Standards/WikiData/WD~Qom,170573]]'
-- '[[/_Standards/WikiData/WD~Zonguldak,187895]]'
-- '[[/_Standards/WikiData/WD~Jeddah,374365]]'
-- '[[/_Standards/WikiData/WD~Tashkent,269]]'
-- '[[/_Standards/WikiData/WD~Istanbul,406]]'
-- '[[/_Standards/WikiData/WD~Dubai,612]]'
-- '[[/_Standards/WikiData/WD~Mumbai,1156]]'
-- '[[/_Standards/WikiData/WD~Chicago,1297]]'
-- '[[/_Standards/WikiData/WD~Kolkata,1348]]'
-- '[[/_Standards/WikiData/WD~Dhaka,1354]]'
-- '[[/_Standards/WikiData/WD~Delhi,1353]]'
-- "[[/_Standards/WikiData/WD~Kuala_Lumpur,1865]]"
-- '[[/_Standards/WikiData/WD~Beirut,3820]]'
-- '[[/_Standards/WikiData/WD~Manama,3882]]'
-- "[[/_Standards/WikiData/WD~Port_Louis,3929]]"
-- '[[/_Standards/WikiData/WD~Shanghai,8686]]'
-- '[[/_Standards/WikiData/WD~Houston,16555]]'
-- '[[/_Standards/WikiData/WD~Pristina,25270]]'
-- '[[/_Standards/WikiData/WD~London,84]]'
+- '[[/_Standards/WikiData/WD~Mashhad,121157|WD~Mashhad,121157]]'
+- '[[/_Standards/WikiData/WD~İzmit,129649|WD~İzmit,129649]]'
+- '[[/_Standards/WikiData/WD~Qom,170573|WD~Qom,170573]]'
+- '[[/_Standards/WikiData/WD~Zonguldak,187895|WD~Zonguldak,187895]]'
+- '[[/_Standards/WikiData/WD~Jeddah,374365|WD~Jeddah,374365]]'
+- '[[/_Standards/WikiData/WD~Tashkent,269|WD~Tashkent,269]]'
+- '[[/_Standards/WikiData/WD~Istanbul,406|WD~Istanbul,406]]'
+- '[[/_Standards/WikiData/WD~Dubai,612|WD~Dubai,612]]'
+- '[[/_Standards/WikiData/WD~Mumbai,1156|WD~Mumbai,1156]]'
+- '[[/_Standards/WikiData/WD~Chicago,1297|WD~Chicago,1297]]'
+- '[[/_Standards/WikiData/WD~Kolkata,1348|WD~Kolkata,1348]]'
+- '[[/_Standards/WikiData/WD~Dhaka,1354|WD~Dhaka,1354]]'
+- '[[/_Standards/WikiData/WD~Delhi,1353|WD~Delhi,1353]]'
+- "[[/_Standards/WikiData/WD~Kuala_Lumpur,1865|WD~Kuala_Lumpur,1865]]"
+- '[[/_Standards/WikiData/WD~Beirut,3820|WD~Beirut,3820]]'
+- '[[/_Standards/WikiData/WD~Manama,3882|WD~Manama,3882]]'
+- "[[/_Standards/WikiData/WD~Port_Louis,3929|WD~Port_Louis,3929]]"
+- '[[/_Standards/WikiData/WD~Shanghai,8686|WD~Shanghai,8686]]'
+- '[[/_Standards/WikiData/WD~Houston,16555|WD~Houston,16555]]'
+- '[[/_Standards/WikiData/WD~Pristina,25270|WD~Pristina,25270]]'
+- '[[/_Standards/WikiData/WD~London,84|WD~London,84]]'
 instance_of:
-- '[[/_Standards/WikiData/WD~megacity,174844]]'
-- '[[/_Standards/WikiData/WD~metropolis,200250]]'
-- "[[/_Standards/WikiData/WD~big_city,1549591]]"
-- "[[/_Standards/WikiData/WD~city_or_town,7930989]]"
-- "[[/_Standards/WikiData/WD~state_capital,11271835]]"
-- "[[/_Standards/WikiData/WD~largest_city,51929311]]"
-- "[[/_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
+- '[[/_Standards/WikiData/WD~megacity,174844|WD~megacity,174844]]'
+- '[[/_Standards/WikiData/WD~metropolis,200250|WD~metropolis,200250]]'
+- "[[/_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+- "[[/_Standards/WikiData/WD~city_or_town,7930989|WD~city_or_town,7930989]]"
+- "[[/_Standards/WikiData/WD~state_capital,11271835|WD~state_capital,11271835]]"
+- "[[/_Standards/WikiData/WD~largest_city,51929311|WD~largest_city,51929311]]"
+- "[[/_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]"
 described_by_source:
-- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+- "[[/_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+- "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
 owner_of:
-- "[[/_Standards/WikiData/WD~CDGK_Stadium,5009925]]"
-- "[[/_Standards/WikiData/WD~Peoples_Football_Stadium,7166062]]"
-demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Karachi,5256021]]"
-economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Karachi,5333698]]"
-geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Karachi,5535161]]"
-capital: "[[/_Standards/WikiData/WD~Gulshan_Town,5617890]]"
-office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Mayor_of_Karachi,6627562]]"
-category_for_people_born_here: '[[/_Standards/WikiData/WD~Q8056407,8056407]]'
+- "[[/_Standards/WikiData/WD~CDGK_Stadium,5009925|WD~CDGK_Stadium,5009925]]"
+- "[[/_Standards/WikiData/WD~Peoples_Football_Stadium,7166062|WD~Peoples_Football_Stadium,7166062]]"
+demographics_of_topic: "[[/_Standards/WikiData/WD~demographics_of_Karachi,5256021|WD~demographics_of_Karachi,5256021]]"
+economy_of_topic: "[[/_Standards/WikiData/WD~economy_of_Karachi,5333698|WD~economy_of_Karachi,5333698]]"
+geography_of_topic: "[[/_Standards/WikiData/WD~geography_of_Karachi,5535161|WD~geography_of_Karachi,5535161]]"
+capital: "[[/_Standards/WikiData/WD~Gulshan_Town,5617890|WD~Gulshan_Town,5617890]]"
+office_held_by_head_of_government: "[[/_Standards/WikiData/WD~Mayor_of_Karachi,6627562|WD~Mayor_of_Karachi,6627562]]"
+category_for_people_born_here: '[[/_Standards/WikiData/WD~Q8056407,8056407|WD~Q8056407,8056407]]'
 image: "http://commons.wikimedia.org/wiki/Special:FilePath/Karachi%20from%20above.jpg"
 montage_image:
 - "http://commons.wikimedia.org/wiki/Special:FilePath/Karachi%20Montage%2002.PNG"
@@ -73,22 +73,22 @@ native_label:
 official_name:
 - ڪراچي
 - کراچی
-legislative_body: "[[/_Standards/WikiData/WD~Karachi_Metropolitan_Corporation,15982486]]"
-permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q27096394,27096394]]'
-head_of_government: "[[/_Standards/WikiData/WD~Murtaza_Wahab,56485499]]"
-member_of: "[[/_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870]]"
-different_from: '[[/_Standards/WikiData/WD~Karachi,68037518]]'
-category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q86697522,86697522]]'
+legislative_body: "[[/_Standards/WikiData/WD~Karachi_Metropolitan_Corporation,15982486|WD~Karachi_Metropolitan_Corporation,15982486]]"
+permanent_duplicated_item: '[[/_Standards/WikiData/WD~Q27096394,27096394|WD~Q27096394,27096394]]'
+head_of_government: "[[/_Standards/WikiData/WD~Murtaza_Wahab,56485499|WD~Murtaza_Wahab,56485499]]"
+member_of: "[[/_Standards/WikiData/WD~World_Tourism_Cities_Federation,67652870|WD~World_Tourism_Cities_Federation,67652870]]"
+different_from: '[[/_Standards/WikiData/WD~Karachi,68037518|WD~Karachi,68037518]]'
+category_for_people_buried_here: '[[/_Standards/WikiData/WD~Q86697522,86697522|WD~Q86697522,86697522]]'
 ISNI: 0000000105629973
 page_banner: "http://commons.wikimedia.org/wiki/Special:FilePath/Karachi%20WV%20banner1.jpg"
 inception: "1729-01-01T00:00:00Z"
 official_website: "https://www.kmc.gos.pk/"
-country: '[[/_Standards/WikiData/WD~Pakistan,843]]'
-official_language: '[[/_Standards/WikiData/WD~Urdu,1617]]'
-located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+05_00,6806]]'
+country: '[[/_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+official_language: '[[/_Standards/WikiData/WD~Urdu,1617|WD~Urdu,1617]]'
+located_in_time_zone: '[[/_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]'
 elevation_above_sea_level: 8
-located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Sindh,37211]]'
-capital_of: '[[/_Standards/WikiData/WD~Sindh,37211]]'
+located_in_the_administrative_territorial_entity: '[[/_Standards/WikiData/WD~Sindh,37211|WD~Sindh,37211]]'
+capital_of: '[[/_Standards/WikiData/WD~Sindh,37211|WD~Sindh,37211]]'
 local_dialing_code: 021
 area: 3527
 licence_plate_code:
@@ -113,7 +113,7 @@ coordinate_location: "Point(67.01 24.86)"
 [geo-lat::24.86] 
 [name::Karachi] 
 State ::  
-Country :: [[../../../../Pakistan]]  
+Country :: [[../../../../Pakistan|Pakistan]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 

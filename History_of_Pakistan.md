@@ -1,11 +1,11 @@
 ---
 aliases:
 has_id_wikidata: Q726994
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-has_part_s_: "[[_Standards/WikiData/WD~history_of_Pakistan_(1947_present),19891725]]"
-described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
-facet_of: "[[_Standards/WikiData/WD~Pakistan,843]]"
-country: "[[_Standards/WikiData/WD~Pakistan,843]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+has_part_s_: "[[_Standards/WikiData/WD~history_of_Pakistan_(1947_present),19891725|WD~history_of_Pakistan_(1947_present),19891725]]"
+described_by_source: "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]"
+facet_of: "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+country: "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
 Commons_category: History of Pakistan
 ---
 

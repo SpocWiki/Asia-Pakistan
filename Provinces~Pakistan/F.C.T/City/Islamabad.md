@@ -25,41 +25,41 @@ demonym:
   - Islamabadien
   - Islamabadienne
 vocalized_name: اِسْلام آباد
-shares_border_with: "[[_Standards/WikiData/WD~Khyber_Pakhtunkhwa,183314]]"
+shares_border_with: "[[_Standards/WikiData/WD~Khyber_Pakhtunkhwa,183314|WD~Khyber_Pakhtunkhwa,183314]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~federal_capital,257391]]"
-  - "[[_Standards/WikiData/WD~big_city,1549591]]"
-  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Islamabad_Capital_Territory,848613]]"
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~federal_capital,257391|WD~federal_capital,257391]]"
+  - "[[_Standards/WikiData/WD~big_city,1549591|WD~big_city,1549591]]"
+  - "[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Islamabad_Capital_Territory,848613|WD~Islamabad_Capital_Territory,848613]]"
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~Pakistan_Standard_Time,2234548]]"
-  - "[[_Standards/WikiData/WD~UTC+05_00,6806]]"
-  - "[[_Standards/WikiData/WD~UTC+06_00,6906]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Islamabad,5256019]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Islamabad,5333691]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Islamabad,5535158]]"
+  - "[[_Standards/WikiData/WD~Pakistan_Standard_Time,2234548|WD~Pakistan_Standard_Time,2234548]]"
+  - "[[_Standards/WikiData/WD~UTC+05_00,6806|WD~UTC+05_00,6806]]"
+  - "[[_Standards/WikiData/WD~UTC+06_00,6906|WD~UTC+06_00,6906]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Islamabad,5256019|WD~demographics_of_Islamabad,5256019]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Islamabad,5333691|WD~economy_of_Islamabad,5333691]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Islamabad,5535158|WD~geography_of_Islamabad,5535158]]"
 named_after:
-  - "[[_Standards/WikiData/WD~_abad,5579948]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-category_for_people_born_here: "[[_Standards/WikiData/WD~Q7914919,7914919]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Islamabad,10860519]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Islamabad,15223261]]"
-head_of_government: "[[_Standards/WikiData/WD~Sheikh_Ansar_Aziz,26923792]]"
-depicted_by: "[[_Standards/WikiData/WD~Minnie_Gomery_Fonds,71990266]]"
+  - "[[_Standards/WikiData/WD~_abad,5579948|WD~_abad,5579948]]"
+  - "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+category_for_people_born_here: "[[_Standards/WikiData/WD~Q7914919,7914919|WD~Q7914919,7914919]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Islamabad,10860519|WD~history_of_Islamabad,10860519]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Islamabad,15223261|WD~Portal_Islamabad,15223261]]"
+head_of_government: "[[_Standards/WikiData/WD~Sheikh_Ansar_Aziz,26923792|WD~Sheikh_Ansar_Aziz,26923792]]"
+depicted_by: "[[_Standards/WikiData/WD~Minnie_Gomery_Fonds,71990266|WD~Minnie_Gomery_Fonds,71990266]]"
 coordinate_location: Point(73.036944444 33.698888888)
-capital_of: "[[_Standards/WikiData/WD~Pakistan,843]]"
-country: "[[_Standards/WikiData/WD~Pakistan,843]]"
+capital_of: "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+country: "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
 twinned_administrative_body:
-  - "[[_Standards/WikiData/WD~Beijing,956]]"
-  - "[[_Standards/WikiData/WD~Abu_Dhabi,1519]]"
-  - "[[_Standards/WikiData/WD~Sydney,3130]]"
-  - "[[_Standards/WikiData/WD~Jakarta,3630]]"
-  - "[[_Standards/WikiData/WD~Ankara,3640]]"
-  - "[[_Standards/WikiData/WD~Amman,3805]]"
-  - "[[_Standards/WikiData/WD~Astrakhan,3927]]"
-  - "[[_Standards/WikiData/WD~Taranto,13498]]"
-  - "[[_Standards/WikiData/WD~Toronto,172]]"
+  - "[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]"
+  - "[[_Standards/WikiData/WD~Abu_Dhabi,1519|WD~Abu_Dhabi,1519]]"
+  - "[[_Standards/WikiData/WD~Sydney,3130|WD~Sydney,3130]]"
+  - "[[_Standards/WikiData/WD~Jakarta,3630|WD~Jakarta,3630]]"
+  - "[[_Standards/WikiData/WD~Ankara,3640|WD~Ankara,3640]]"
+  - "[[_Standards/WikiData/WD~Amman,3805|WD~Amman,3805]]"
+  - "[[_Standards/WikiData/WD~Astrakhan,3927|WD~Astrakhan,3927]]"
+  - "[[_Standards/WikiData/WD~Taranto,13498|WD~Taranto,13498]]"
+  - "[[_Standards/WikiData/WD~Toronto,172|WD~Toronto,172]]"
 elevation_above_sea_level: 490
 area: 906
 postal_code: "44000"
@@ -86,7 +86,7 @@ official_website: http://www.islamabad.gov.pk/
 [geo-lat::33.66667] 
 [name::Islamabad] 
 State ::  
-Country :: [[../../../../Pakistan]]  
+Country :: [[../../../../Pakistan|Pakistan]]  
 [StateId::] 
 [Population::] 
 [Unknown::32] 

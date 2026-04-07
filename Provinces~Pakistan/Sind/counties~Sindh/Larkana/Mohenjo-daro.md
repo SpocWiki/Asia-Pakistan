@@ -7,20 +7,20 @@ aliases:
 has_id_wikidata: Q5725
 location: [27.329166666, 68.138888888]
 coordinate_location: Point(68.138888888 27.329166666)
-instance_of: "[[_Standards/WikiData/WD~archaeological_site,839954]]"
+instance_of: "[[_Standards/WikiData/WD~archaeological_site,839954|WD~archaeological_site,839954]]"
 discoverer_or_inventor:
-  - "[[_Standards/WikiData/WD~John_Marshall,1376456]]"
-  - "[[_Standards/WikiData/WD~Rakhaldas_Bandyopadhyay,7286651]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Larkana_District,2281289]]"
-on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
+  - "[[_Standards/WikiData/WD~John_Marshall,1376456|WD~John_Marshall,1376456]]"
+  - "[[_Standards/WikiData/WD~Rakhaldas_Bandyopadhyay,7286651|WD~Rakhaldas_Bandyopadhyay,7286651]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Larkana_District,2281289|WD~Larkana_District,2281289]]"
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]"
 World_Heritage_criteria:
-  - "[[_Standards/WikiData/WD~(ii),23038976]]"
-  - "[[_Standards/WikiData/WD~(iii),23038977]]"
+  - "[[_Standards/WikiData/WD~(ii),23038976|WD~(ii),23038976]]"
+  - "[[_Standards/WikiData/WD~(iii),23038977|WD~(iii),23038977]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
-country: "[[_Standards/WikiData/WD~Pakistan,843]]"
-heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259]]"
+  - "[[_Standards/WikiData/WD~Atlas_of_Vanishing_Places,113243983|WD~Atlas_of_Vanishing_Places,113243983]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]"
+country: "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+heritage_designation: "[[_Standards/WikiData/WD~World_Heritage_Site,9259|WD~World_Heritage_Site,9259]]"
 area: 240
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mohenjodaro%20Sindh.jpeg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mohenjo-daro%20WV%20page%20banner.JPG

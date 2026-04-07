@@ -1,18 +1,18 @@
 ---
 has_id_wikidata: Q330872
 religion_or_worldview:
-  - "[[_Standards/WikiData/WD~Sunni_Islam,483654]]"
-  - "[[_Standards/WikiData/WD~Islam,432]]"
-founded_by: "[[_Standards/WikiData/WD~Aurangzeb,485547]]"
-commissioned_by: "[[_Standards/WikiData/WD~Aurangzeb,485547]]"
-architectural_style: "[[_Standards/WikiData/WD~Mughal_architecture,542261]]"
-heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900]]"
-country: "[[_Standards/WikiData/WD~Pakistan,843]]"
-located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lahore,11739]]"
-made_from_material: "[[_Standards/WikiData/WD~sandstone,13085]]"
+  - "[[_Standards/WikiData/WD~Sunni_Islam,483654|WD~Sunni_Islam,483654]]"
+  - "[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]"
+founded_by: "[[_Standards/WikiData/WD~Aurangzeb,485547|WD~Aurangzeb,485547]]"
+commissioned_by: "[[_Standards/WikiData/WD~Aurangzeb,485547|WD~Aurangzeb,485547]]"
+architectural_style: "[[_Standards/WikiData/WD~Mughal_architecture,542261|WD~Mughal_architecture,542261]]"
+heritage_designation: "[[_Standards/WikiData/WD~Tentative_World_Heritage_Site,1459900|WD~Tentative_World_Heritage_Site,1459900]]"
+country: "[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]"
+located_in_the_administrative_territorial_entity: "[[_Standards/WikiData/WD~Lahore,11739|WD~Lahore,11739]]"
+made_from_material: "[[_Standards/WikiData/WD~sandstone,13085|WD~sandstone,13085]]"
 maximum_capacity: 100000
-instance_of: "[[_Standards/WikiData/WD~mosque,32815]]"
-has_part_s_of_the_class: "[[_Standards/WikiData/WD~minaret,48356]]"
+instance_of: "[[_Standards/WikiData/WD~mosque,32815|WD~mosque,32815]]"
+has_part_s_of_the_class: "[[_Standards/WikiData/WD~minaret,48356|WD~minaret,48356]]"
 inception: 1671-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Badshahi%20Mosque%20July%201%202005%20pic32%20by%20Ali%20Imran%20%281%29.jpg
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/BadshahiInterior.jpg

@@ -122,7 +122,7 @@ markerFolder: ./
 [Area-Land::770880] 
 Continent :: [[Asia]]  
 [VehicleCode::PK] 
-Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad]]  
+Capital :: [[Pakistan/Counties/F.C.T/City/Islamabad|Islamabad]]  
 ![[Coat_of_arms_of_Pakistan.svg|350]] 
 ![[Anthem-Pakistan.mp3]]
 
